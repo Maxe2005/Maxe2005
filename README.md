@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je travaille actuellement sur la mise en commun de fonctions de base dans mes jeu avec Tkinter en python.<br><br>J'ai créé plusieurs jeux basique avec l'interface Tkinter en python comme :<br>    - Un jeu de labyrinthes (à parcourir et à créer)<br>    - Solver_puzzle inspiré de casses-têtes en 3D<br>    - Et un solver de sudoku (qui procède de manière intelligente, comme le ferai un humain)<br><br>J'ai comme projet de centraliser les fonctions de bases de ces programmes pour en créer par la suite des équivalents plus rapidement (avec comme projet test un tetris)<br><br>Mon langage de prédilection est python mais je travaille activement à apprendre le web (PHP, MySQL, JS, jQuery, CSS3 et HTML5) tout en me perfectionnant en python.) 
+🌱 Je travaille actuellement sur la mise en commun de fonctions de base dans mes jeu avec Tkinter en python.<br><br>J'ai créé plusieurs jeux basique avec l'interface Tkinter en python comme :<br>    - 😄 Un jeu de labyrinthes (à parcourir et à créer)<br>    - Solver_puzzle inspiré de casses-têtes en 3D<br>    - Et un solver de sudoku (qui procède de manière intelligente, comme le ferai un humain)<br><br> ⚡ J'ai comme projet de centraliser les fonctions de bases de ces programmes pour en créer par la suite des équivalents plus rapidement (avec comme projet test un tetris)<br><br>Mon langage de prédilection est python mais je travaille activement à apprendre le web (PHP, MySQL, JS, jQuery, CSS3 et HTML5) tout en me perfectionnant en python.) 
 
 
 ## 🌐 Socials:
@@ -15,15 +15,4 @@ Je travaille actuellement sur la mise en commun de fonctions de base dans mes je
 ---
 [![](https://visitcount.itsvg.in/api?id=Maxe2005&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Maxe2005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Maxe2005/Maxe2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
